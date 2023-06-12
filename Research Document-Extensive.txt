@@ -1,0 +1,11 @@
+Research
+*Provide Useful Content
+*Establish User Requirements(UR)
+*Understand & Meet UR
+*Use Parallel Design Priciples
+*User Personas
+*Accessibility
+*Layout Desgn/Typography-Color-Palaeltte
+*Graphics(Videos, Images, Logos, Banners)
+*Content Descriptions(Texts)
+*WhoWhatWhereWhenHow

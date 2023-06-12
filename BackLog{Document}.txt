@@ -1,0 +1,60 @@
+*BackLog*{Document}
+-Itemised & Prioritised
+-Granular SubDivision
+-Very Specific Task Orientation
+==================
+-Prioirtised
+-3Design-ui/ux/cx
+==================
+-4Develop-userflow
+	 -testing
+	 -SEO
+	 -Content Creation
+===============
+-Business Requirement 
+*Made by Client as an Issues or a new feature.
+================
+Swot Analysis
+-S(Strengths){
+*
+}
+-W(Weaknesses){
+*
+}
+-O(Opportuities){
+*
+}
+-T(Threats){
+*
+}
+================
+Value Complexity Matrix 
+Value-Y/Axis(!=Money)
+[
+-Add Value
+-Products,Checkout Description 
+-
+]
+Complexity-X/Axis(!=Time)
+[
+-Level Of Dificulty
+-Complex Design
+-Complex Development
+-Testing
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

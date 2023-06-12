@@ -1,0 +1,19 @@
+#Mapping Vectors
+==================
+Tree Of Hierarchy Scaling:-
+=================UX/UI========================
+↓	 ↓	  ↓ 	  ↓	      ↓
+Research Analysis SiteMap UserJourney Protyping
+|=>•	 |=>•	  |=>•	  |=>•	      |=>•
+======	 ======	  ======  ======      ======
+UI/UX-
+*Research
+-Current Sites Out There
+-Website Aesthetics
+-Ease Of Functionality
+-Extensive Content Research
+-Who•What•Where•When•How
+*User Journey's
+-UI Look/Feel
+-UX Function/Operation
+-Client Experience
